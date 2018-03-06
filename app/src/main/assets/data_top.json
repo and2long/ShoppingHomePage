@@ -2,7 +2,7 @@
   "data": [
     {
       "cate_id": 1,
-      "cate_name": "Item",
+      "cate_name": "手机",
       "cate_url": "/addons/bsht_tbk/res/icon/1.png",
       "dtk_cate_id": 1,
       "hdk_cate_id": 1,
@@ -22,7 +22,7 @@
     },
     {
       "cate_id": 1,
-      "cate_name": "Item",
+      "cate_name": "电脑",
       "cate_url": "/addons/bsht_tbk/res/icon/2.png",
       "dtk_cate_id": 9,
       "hdk_cate_id": 2,
@@ -42,7 +42,7 @@
     },
     {
       "cate_id": 1,
-      "cate_name": "Item",
+      "cate_name": "箱包",
       "cate_url": "/addons/bsht_tbk/res/icon/4.png",
       "dtk_cate_id": 10,
       "hdk_cate_id": 3,
@@ -62,7 +62,7 @@
     },
     {
       "cate_id": 2,
-      "cate_name": "Item",
+      "cate_name": "美妆",
       "cate_url": "/addons/bsht_tbk/res/icon/5.png",
       "dtk_cate_id": 2,
       "hdk_cate_id": 8,
@@ -82,7 +82,7 @@
     },
     {
       "cate_id": 3,
-      "cate_name": "Item",
+      "cate_name": "服饰",
       "cate_url": "/addons/bsht_tbk/res/icon/6.png",
       "dtk_cate_id": 3,
       "hdk_cate_id": 4,
@@ -102,7 +102,7 @@
     },
     {
       "cate_id": 4,
-      "cate_name": "Item",
+      "cate_name": "母婴",
       "cate_url": "/addons/bsht_tbk/res/icon/7.png",
       "dtk_cate_id": 4,
       "hdk_cate_id": 10,
@@ -122,7 +122,7 @@
     },
     {
       "cate_id": 5,
-      "cate_name": "Item",
+      "cate_name": "家居",
       "cate_url": "/addons/bsht_tbk/res/icon/3.png",
       "dtk_cate_id": 5,
       "hdk_cate_id": 5,
@@ -142,7 +142,7 @@
     },
     {
       "cate_id": 6,
-      "cate_name": "Item",
+      "cate_name": "洗护",
       "cate_url": "/addons/bsht_tbk/res/icon/8.png",
       "dtk_cate_id": 6,
       "hdk_cate_id": 11,
@@ -162,7 +162,7 @@
     },
     {
       "cate_id": 7,
-      "cate_name": "Item",
+      "cate_name": "生鲜",
       "cate_url": "/addons/bsht_tbk/res/icon/9.png",
       "dtk_cate_id": 7,
       "hdk_cate_id": 14,
@@ -182,7 +182,7 @@
     },
     {
       "cate_id": 8,
-      "cate_name": "Item",
+      "cate_name": "电器",
       "cate_url": "/addons/bsht_tbk/res/icon/10.png",
       "dtk_cate_id": 8,
       "hdk_cate_id": 12,

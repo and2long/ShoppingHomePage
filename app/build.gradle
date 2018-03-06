@@ -30,4 +30,7 @@ dependencies {
     compile 'com.zhy:base-rvadapter:3.0.3'
     //gson转换
     implementation 'com.google.code.gson:gson:2.8.1'
+    //glide
+    implementation 'com.github.bumptech.glide:glide:4.6.1'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.6.1'
 }

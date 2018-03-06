@@ -7,8 +7,7 @@
         android:id="@+id/iv_thumb"
         android:layout_width="80dp"
         android:layout_height="80dp"
-        android:layout_margin="10dp"
-        android:background="@color/colorAccent" />
+        android:layout_margin="10dp" />
 
 
     <TextView

@@ -14,8 +14,7 @@
         <ImageView
             android:id="@+id/iv_item1"
             android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:background="#6666" />
+            android:layout_height="60dp" />
 
         <TextView
             android:id="@+id/tv_desc_item1"

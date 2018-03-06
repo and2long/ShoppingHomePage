@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
     private List<MData.DataBean.ContentBean> mHomeData = new ArrayList<>();
     //头教包装类
     private HeaderAndFooterWrapper mHeaderAndFooterWrapper;
-    private HomeAdapter mAdapter;
 
     private static final String TAG = "MainActivity";
 
@@ -47,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         View centerView = View.inflate(this, R.layout.header_center, null);
 
         //创建主要适配器
-        mAdapter = new HomeAdapter(this, mHomeData);
+        HomeAdapter mAdapter = new HomeAdapter(this, mHomeData);
         //包裹类。包裹一个适配器
         mHeaderAndFooterWrapper = new HeaderAndFooterWrapper(mAdapter);
         mHeaderAndFooterWrapper.addHeaderView(viewPager);

@@ -3,6 +3,8 @@ package com.and2long.shoppinghomepage;
 import android.content.Context;
 import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.request.RequestOptions;
 import com.zhy.adapter.recyclerview.CommonAdapter;
 import com.zhy.adapter.recyclerview.base.ViewHolder;
 
@@ -24,7 +26,12 @@ public class TopAdapter extends CommonAdapter<TopData.DataBean> {
     protected void convert(ViewHolder holder, TopData.DataBean dataBean, int position) {
         holder.setText(R.id.tv_desc_item1, dataBean.getCate_name());
         ImageView image = holder.getView(R.id.iv_item1);
-
+        RequestOptions options = new RequestOptions()
+                .circleCrop();
+        Glide.with(mContext)
+                .load(R.mipmap.ic_launcher_round)
+                .apply(options)
+                .into(image);
     }
 }
 
